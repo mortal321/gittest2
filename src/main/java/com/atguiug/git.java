@@ -13,6 +13,6 @@ public class git {
         System.out.println("gittest41");
         System.out.println("gittest42");
         System.out.println("push test");
-
+        System.out.println("pull test");
     }
 }
